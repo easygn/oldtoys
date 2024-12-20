@@ -27,7 +27,7 @@
 <br>
 
 
-#### v08 [19, Dec] - In addition to v07.
+#### v08 [19, Dec] - In addition to v07
 
 - MS's dive speed in anti-ships battle is 3 times faster!
 
