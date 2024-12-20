@@ -54,6 +54,19 @@ perf of the Earth Federation Army's long-range Units.
 
 ##### Modding only for v05 !
 
+- When press the Tec Up, the other factions also upgraded
+
+ At a certain rate. (Reflecting real case of tech theft)
+
+- Like 2/7 ratio, To resolve the maximum Initial TecLev of 20.
+
+- Reflecting the tension of the TecUp together of old G or GX
+
+- Rarely, the User's tech also increase double, like 1/7 ratio
+
+- Beta ver Caution ! : If press Tec Up when enough money,
+
+  Tec Up will cause a critical error !!
 
 
   ---
