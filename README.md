@@ -1,4 +1,4 @@
-### Romhack (SNES) SD gundam G Next - Balance Patch
+## [ Romhack (SNES) SD gundam G Next ] - Balance Patch
 
  ![GnxA](/image/a.png)
 
@@ -56,7 +56,7 @@ perf of the Earth Federation Army's long-range Units.
 
 - When press the Tec Up, the other factions also upgraded
 
- At a certain rate. (Reflecting real case of tech theft)
+ at a Certain rate. (Reflecting real case of Tech theft)
 
 - Like 2/7 ratio, To resolve the maximum Initial TecLev of 20.
 
@@ -80,6 +80,18 @@ perf of the Earth Federation Army's long-range Units.
 
  <br>
 
+
+### Future update plan
+
+- Reduced the battle time between ships 30 sec to 10-15 seconds [★]
+
+- Replaced some terrain attribute font with thumb icons [ ]
+
+- Addtional translation of some UI [ ]
+
+ <br>
+ 
+### Applied ROM file name : SD Gundam G Next (Japan).sfc
 
 
   ---
