@@ -68,5 +68,18 @@ perf of the Earth Federation Army's long-range Units.
 
   Tec Up will cause a critical error !!
 
+- Other common issue : Ugly tile patterns output on the main
+
+  background screen, because some codes are allocated to the
+
+  graphic area ( v05 look like Jiong? )
+
+ <br>
+
+##### This Patch includes translations of the old English Ver.
+
+ <br>
+
+
 
   ---
