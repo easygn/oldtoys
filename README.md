@@ -4,7 +4,46 @@
 
  ![GnxB](/image/b.png)
 
- ##### - Changes ( v03 v05 common )
+<br>
+
+#### v08b [20, Dec] - A basic ver with slightly lower difficulty
+
+- MS speed doubled in anti-ship battles
+
+   ( Battle time (10) 30 -> 15 seconds )
+
+- R79 Gundam Classic 1200 Cost Returned
+
+- Rick Dias (900) 1500 -> 1300 C
+
+- Methuss  (1000) 1700 -> 1500 C
+
+- GM III    (700)  900 -> 800 C
+
+- Gun EZ   (1800) 1800 -> 1700 C
+
+  ( Other balance is the same as previous ver. )
+
+<br>
+
+
+#### v08 [19, Dec] - In addition to v07.
+
+- MS's dive speed in anti-ships battle is 3 times faster!
+
+   ( Battle time reduced from 30 sec to 10 seconds )
+
+<br>
+
+#### v07 [16, Dec] - Stabilized ver of the Previous v05
+
+- Fixed No Gold fatal error when TecUp enough money.
+
+- Moved code to safer area ( Does not damage the main Bg )
+
+ <br>
+
+ #### - Changes ( v03 v05 common )
 
 - R79 Gundam - 1200 -> 1300 Cost
 
@@ -16,9 +55,9 @@
 
 - Rick dias  - 900 -> 1500 C
 
-- Metas      - 1000 -> 1700 C
+- Metuss     - 1000 -> 1700 C
 
-- Gym III    - 700 -> 900 C, 123 -> 115 En
+- GM III    - 700 -> 900 C, 123 -> 115 En
 
 - Jegan      - 1400 -> 1200 C, 135 -> 127 En
 
@@ -76,7 +115,7 @@ perf of the Earth Federation Army's long-range Units.
 
  <br>
 
-##### This Patch includes translations of the old English Ver.
+#### This Patch includes translations of the old English Ver.
 
  <br>
 
