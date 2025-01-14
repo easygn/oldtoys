@@ -17,7 +17,7 @@
   
 - Metas (1000) 1700 -> 1500 Cost ( Orig Basic common )
 
-- Jim III (123) 115 -> 117 Energy ( common )
+- GM III (123) 115 -> 117 Energy ( common )
 
 - JamesGun 1400 -> 1300 C, 138 -> 135 En  (")
 
@@ -34,7 +34,7 @@
 
 - MS speed doubled in anti-ship battles
 
-   ( Battle time (10) 30 -> 15 seconds )
+   ( Battle time (30) 10 -> 15 seconds )
 
 - R79 Gundam Classic 1200 Cost Returned
 
