@@ -4,7 +4,31 @@
 
  ![GnxB](/image/b.png)
 
+ ![GnxC](/image/c.png)
+
+
 <br>
+
+#### v09 [15, Jan] - Terrain Information changed
+
+   From Chinease Character -> Image Icon
+
+- Additional balance adjustments
+  
+- Metas (1000) 1700 -> 1500 Cost ( Orig Basic common )
+
+- Jim III (123) 115 -> 117 Energy ( common )
+
+- JamesGun 1400 -> 1300 C, 138 -> 135 En  (")
+
+- GP03 Dendrobium +1 En (")
+
+- GunEZ 1800 -> 1700 C (")
+
+    144 -> 138 En (Only Origin difficulty)
+
+<br>
+
 
 #### v08b [20, Dec] - A basic ver with slightly lower difficulty
 
