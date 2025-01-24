@@ -21,7 +21,7 @@
 
 - Columbus : 20 -> (12, 15) MA Supply Points (Orig, Basic)
 
-- Pazcock : 25 -> (16, 20) MA SPs
+- Pazcock : 25 -> (16, 20) MA SPs (")
 
 - Medea, FatUncle :
 
@@ -177,7 +177,7 @@ perf of the Earth Federation Army's long-range Units.
 
 - Reduced the battle time between ships 30 sec to 10-15 seconds [★]
 
-- Replaced some terrain attribute font with thumb icons [△]
+- Replaced some terrain attribute font with thumb icons [●]
 
 - Addtional translation of some UI [ ]
 
