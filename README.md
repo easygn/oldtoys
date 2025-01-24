@@ -6,7 +6,7 @@
 
  ![GnxC](/image/c.png)
 
- ![GnxC](/image/c.png)
+ ![GnxC](/image/d.png)
 
 
 <br>
@@ -23,7 +23,11 @@
 
 - Pazcock : 25 -> (16, 20) MA SPs
 
-- Medea, FatUncle : 20 -> (15, 20) MA SPs, 4000 -> 5000 Cost (Common)
+- Medea, FatUncle :
+
+       20 -> (15, 20) MA SPs (Org, Basic)
+
+       4000 -> 5000 Cost (Common)
 
 - LVE Rose :
 
