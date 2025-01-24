@@ -6,8 +6,33 @@
 
  ![GnxC](/image/c.png)
 
+ ![GnxC](/image/c.png)
+
 
 <br>
+
+#### v10 [25, Jan] - Added new Tec status number
+
+  Changed name format of MS : GP02 PHYSALIS
+
+  And use the space left by it
+
+- Additional balance of supply Ships.
+
+- Columbus : 20 -> (12, 15) MA Supply Points (Orig, Basic)
+
+- Pazcock : 25 -> (16, 20) MA SPs
+
+- Medea, FatUncle : 20 -> (15, 20) MA SPs, 4000 -> 5000 Cost (Common)
+
+- LVE Rose :
+
+       40000 -> 37000 Cost (Original Only)
+
+       48:36 -> 36:45 MS/MA SPs (Basic Only)
+
+<br>
+
 
 #### v09 [15, Jan] - Terrain Information changed
 
