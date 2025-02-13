@@ -8,7 +8,7 @@
 
  ![GnxD](/image/d.png)
 
- ![GnxE](/image/e.png)
+ ![GnxEE](/image/e.png)
 
 <br>
 
