@@ -7,10 +7,14 @@
  ![GnxC](/image/c.png)
 
  ![GnxD](/image/d.png)
+
+ ![GnxE](/image/e.png)
+
+ 
  
 <br>
 
-### v12R5 [13, Feb] - SP Ship's Ttc Space, 1st Ai Hack
+### v12r5 [13, Feb] - SP Ship's Ttc Space, 1st Ai Hack
 
 - Added tactical physical space concept
 
