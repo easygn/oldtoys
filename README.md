@@ -20,9 +20,9 @@
 
   within the Supply Ship (3 Supply Points = 1 MS Slot)
 
-- The SP Ship is some empty when first produced
+- The SP Ship's space will some empty when first launch,
 
-  (Different on each difficulty level)
+  Dock will get full SPs (Different on each difficulty level)
 
 - Solved the problem of one-sided TecView
 
