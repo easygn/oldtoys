@@ -20,9 +20,9 @@
 
   within the Supply Ship (3 Supply Points = 1 MS Slot)
 
-- The first production of the SP Ship is empty
+- The SP Ship is some empty when first produced.
 
-  in some spaces (different on each difficulty level)
+  (different on each difficulty level)
 
 - Solved the problem of one-sided TecView
 
