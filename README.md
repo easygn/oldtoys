@@ -1,4 +1,4 @@
-## [ Romhack (SNES) SD gundam G Next ] - Balance Patch
+# [ Romhack (SNES) SD gundam G Next ] - Balance Patch
 
  ![GnxA](/image/a.png)
 
@@ -6,12 +6,38 @@
 
  ![GnxC](/image/c.png)
 
- ![GnxC](/image/d.png)
+ ![GnxD](/image/d.png)
+
+ ![GnxE](/image/e.png)
+
+<br>
+
+### v12R5 [13, Feb] - SP Ship's Ttc Space, 1st Ai Hack
+
+- Added tactical physical space concept
+
+  within the Supply Ship (3 Supply Points = 1 MS Slot)
+
+- The first production of the SP Ship is empty
+
+  in some spaces (different on each difficulty level)
+
+- Solved the problem of one-sided TecView
+
+- Improved of too often ship's production
+
+  in the Early days of first Com AI (turns 2-7)
+
+- Improvement of thread sync issues between
+
+  SA1-CPU processors during MS control of Com AI
+
+  (Delayed 50-60Hz cycles per each Ship)
 
 
 <br>
 
-#### v10 [25, Jan] - Added new Tec status number
+### v10 [25, Jan] - Added new Tec status number
 
   Changed name format of MS : GP02 PHYSALIS
 
@@ -21,7 +47,7 @@
 
 - Columbus : 20 -> (12, 15) MA Supply Points (Orig, Basic)
 
-- Pazcock : 25 -> (16, 20) MA SPs (")
+- Pazock : 25 -> (16, 20) MA SPs (")
 
 - Medea, FatUncle :
 
@@ -38,7 +64,7 @@
 <br>
 
 
-#### v09 [15, Jan] - Terrain Information changed
+### v09 [15, Jan] - Terrain Information changed
 
    From Chinease Character -> Image Icon
 
@@ -59,7 +85,7 @@
 <br>
 
 
-#### v08b [20, Dec] - A basic ver with slightly lower difficulty
+### v08b [20, Dec] - A basic ver with slightly lower difficulty
 
 - MS speed doubled in anti-ship battles
 
@@ -88,7 +114,7 @@
 
 <br>
 
-#### v07 [16, Dec] - Stabilized ver of the Previous v05
+### v07 [16, Dec] - Stabilized ver of the Previous v05
 
 - Fixed No Gold fatal error when TecUp enough money.
 
@@ -168,7 +194,7 @@ perf of the Earth Federation Army's long-range Units.
 
  <br>
 
-#### This Patch includes translations of the old English Ver.
+### This Patch includes translations of the old English Ver.
 
  <br>
 
