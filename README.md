@@ -7,9 +7,7 @@
  ![GnxC](/image/c.png)
 
  ![GnxD](/image/d.png)
-
- ![GnxEE](/image/e.png)
-
+ 
 <br>
 
 ### v12R5 [13, Feb] - SP Ship's Ttc Space, 1st Ai Hack
@@ -33,6 +31,25 @@
   SA1-CPU processors during MS control of Com AI
 
   (Delayed 50-60Hz cycles per each Ship)
+<br>
+
+- Many changed blc of SP Ships : Cost, 1stProd((Orig,Basic)/Full SP Points
+
+      Columbus : 8000 C, (12, 15) / 18 SP
+
+      Pazock :   7000 C, (13, 16) / 19 SP
+
+      Medea :    5500 C, (15, 18) / 21 SP
+
+      FatUncle : 5000 C, (15, 18) / 21 SP
+
+      LVE Rose :
+
+            37000 C, 48 MSp : 36 / 42 SP (Original)
+
+            39000 C, 32 MSp : 45 / 48 SP (Basic)
+
+
 
 
 <br>
